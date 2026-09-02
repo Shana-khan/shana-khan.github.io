@@ -2,17 +2,14 @@
 User-agent: Google-Extended
 Disallow: /vampires/ordo-draconis-rubri.html
 Disallow: /vampires/irina-bibescu.html
-Disallow: /vampires/codex_sanguinis_rubri.html
 
 User-agent: GPTBot
 Disallow: /vampires/ordo-draconis-rubri.html
 Disallow: /vampires/irina-bibescu.html
-Disallow: /vampires/codex_sanguinis_rubri.html
 
 User-agent: ClaudeBot
 Disallow: /vampires/ordo-draconis-rubri.html
 Disallow: /vampires/irina-bibescu.html
-Disallow: /vampires/codex_sanguinis_rubri.html
 
 # Tout le reste est autorisé
 User-agent: *
