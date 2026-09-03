@@ -1,4 +1,4 @@
-# Bloquer uniquement ces 3 pages pour Gemini et autres IA
+# Bloquer uniquement ces 2 pages pour Gemini et autres IA
 User-agent: Google-Extended
 Disallow: /vampires/ordo-draconis-rubri.html
 Disallow: /vampires/irina-bibescu.html
