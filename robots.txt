@@ -1,16 +1,19 @@
-# Bloquer uniquement ces 2 pages pour Gemini et autres IA
+# Bloquer uniquement ces 2 pages pour les IA
+
 User-agent: Google-Extended
-Disallow: /vampires/ordo-draconis-rubri.html
-Disallow: /vampires/irina-bibescu.html
-
 User-agent: GPTBot
-Disallow: /vampires/ordo-draconis-rubri.html
-Disallow: /vampires/irina-bibescu.html
-
 User-agent: ClaudeBot
+User-agent: CCBot
+User-agent: Bytespider
+User-agent: Applebot-Extended
+User-agent: meta-externalagent
+
 Disallow: /vampires/ordo-draconis-rubri.html
 Disallow: /vampires/irina-bibescu.html
 
 # Tout le reste est autorisé
 User-agent: *
 Allow: /
+
+Sitemap: https://shana-khan.github.io/vampires/sitemap.xml
+Sitemap: https://shana-khan.github.io/vampires/sitemap-images.xml
